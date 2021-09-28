@@ -1,0 +1,16 @@
+C:\Users\Santiago\source\repos\login-signup\bin\Debug\netcoreapp3.1\login-signup.exe
+C:\Users\Santiago\source\repos\login-signup\bin\Debug\netcoreapp3.1\login-signup.deps.json
+C:\Users\Santiago\source\repos\login-signup\bin\Debug\netcoreapp3.1\login-signup.runtimeconfig.json
+C:\Users\Santiago\source\repos\login-signup\bin\Debug\netcoreapp3.1\login-signup.runtimeconfig.dev.json
+C:\Users\Santiago\source\repos\login-signup\bin\Debug\netcoreapp3.1\login-signup.dll
+C:\Users\Santiago\source\repos\login-signup\bin\Debug\netcoreapp3.1\login-signup.pdb
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.csprojAssemblyReference.cache
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login_signup.Properties.Resources.resources
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.csproj.GenerateResource.cache
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.dll
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.pdb
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login-signup.genruntimeconfig.cache
+C:\Users\Santiago\source\repos\login-signup\obj\Debug\netcoreapp3.1\login_signup.Formulario.resources
